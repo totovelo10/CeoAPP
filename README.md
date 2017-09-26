@@ -1,3 +1,0 @@
-# CeoAPP
-
-Premier test
